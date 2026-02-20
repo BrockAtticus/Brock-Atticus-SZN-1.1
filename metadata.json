@@ -1,0 +1,7 @@
+{
+  "name": "Remix: BrockAtticus SZN 1",
+  "description": "A brutalist, Americana modern punk fashion experience inspired by Yeezy and ERD. Features a dynamic apparel showcase and an AI-powered chimeric sketch generator.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
